@@ -2,10 +2,11 @@
 
 ### I'm Fawad Qureshi! 👋
 
-A motivated BSCS student with a passion for Machine Learning and a drive to solve real-world problems.
+A motivated BSCS student with a passion for Machine Learning and a drive to solve real-world problems.  
 
-- 🔭 I dive deep into Machine Learning to expand my skillset and tackle new challenges.
-- 💼 Experienced in Data Science and Data Analytics, exploring insights from data to drive decision-making.
+- 🔭 Exploring Machine Learning and Generative AI to tackle new challenges.  
+- 💼 Skilled in Deep Learning, NLP, and Computer Vision with impactful solutions.  
+- 🚀 Passionate about advancing AI capabilities through innovative projects.  
 ### Let's Connect!
 
 <p align="left">
@@ -17,78 +18,7 @@ A motivated BSCS student with a passion for Machine Learning and a drive to solv
 
 ### Technolgies
 
-<table align="center">
-  <tr>
-    <th>Backend & Frontend</th>
-    <th>Databases</th>
-    <th>Tech Stack</th>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="45"/>
-      </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-    </td>
-    <td>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.mysql.com/common/logos/powered-by-mysql-88x31.png" alt="MySQL" width="40" height="45"/>
-      </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-    </td>
-    <td>
-      <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="45"/>
-      </a>
-      <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="45"/>
-      </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="45"/>
-      </a>
-      <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="45"/>
-      </a>
-      <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer">
-        <img src="https://images.ctfassets.net/nrgyaltdicpt/7JpfH23FzfZFgN8HwMdqvj/e41e6454e1acf35d42a9eef32be748a4/ologo_square_bw.png" alt="Overleaf" width="40" height="45"/>
-      </a>
-      <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="45"/>
-      </a>
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
-  </a>
-        <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-      <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="45"/>
-      </a>
-      <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda" width="40" height="45"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<table align="center"> <tr> <th>AI Tech Stack</th> <th>Frameworks & Tools</th> <th>Databases</th> </tr> <tr> <td> <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="40" height="40"/> </a> <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/119336279?s=200&v=4" alt="LangChain" width="40" height="40"/> </a> <a href="https://ollama.ai/" target="_blank" rel="noreferrer"> <img src="https://ollama.com/assets/images/logo.svg" alt="Ollama" width="40" height="40"/> </a> <a href="https://mistral.ai/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/130460734?s=200&v=4" alt="Mistral AI" width="40" height="40"/> </a> <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/> </a> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="45"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="45"/> </a> </td> <td> <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="45"/> </a> <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/> </a> <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda" width="40" height="45"/> </a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="45"/> </a> </td> <td> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a> <a href="https://pinecone.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/63627809?s=200&v=4" alt="Pinecone" width="40" height="40"/> </a> <a href="https://weaviate.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/51863096?s=200&v=4" alt="Weaviate" width="40" height="40"/> </a> <a href="https://www.vector.ai/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/19733681?s=200&v=4" alt="Vector Databases" width="40" height="40"/> </a> </td> </tr> </table>
 
 ### My Profile Stats 💻👀
 
