@@ -95,5 +95,5 @@ A motivated BSCS student with a passion for Machine Learning and a drive to solv
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fawadahmad-lab&show_icons=true&theme=tokyonight" alt="GitHub stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawadahmad-lab&langs_count=8&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats,fawadahmad-lab.github.io&&hide=Cython,C,PowerShell,CMake,Shell" alt="Top languages used">
-<img alt="am-nimrah's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fawadahmad-lab&theme=tokyonight">
+<img alt="fawad's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fawadahmad-lab&theme=tokyonight">
 </p>
