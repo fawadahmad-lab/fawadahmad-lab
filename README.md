@@ -3,9 +3,9 @@
 </p>
 
 <div align="center">
-  <a href="mailto:hassanejaz400@gmail.com"><img src="https://img.shields.io/badge/Email-6E48AA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/mohammad-hassaan-4b413b264/"><img src="https://img.shields.io/badge/LinkedIn-6E48AA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/MasterOz786"><img src="https://img.shields.io/badge/GitHub-6E48AA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:fawadqureshi136@gmail.com"><img src="https://img.shields.io/badge/Email-6E48AA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/fawad-qureshi-b684aa346/"><img src="https://img.shields.io/badge/LinkedIn-6E48AA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/fawadahmad-lab"><img src="https://img.shields.io/badge/GitHub-6E48AA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 <div align="center">
