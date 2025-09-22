@@ -1,4 +1,4 @@
-A motivated BSCS student with a passion for Machine Learning and a drive to solve real-world problems.  
+AI/ML Engineer.  
 
 - 🔭 Exploring Machine Learning and Generative AI to tackle new challenges.  
 - 💼 Skilled in Deep Learning, NLP, and Computer Vision with impactful solutions.  
